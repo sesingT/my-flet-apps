@@ -40,10 +40,9 @@ A version of the counter that **remembers the last value** even after closing th
 
 
 ### 5. ✅ To-Do List App
-A basic to-do list app where you can add, mark, and remove tasks.
+A basic to-do list app where you can add and remove tasks.
 
 - **Features**:
   - Add, check off, and delete tasks
-  - Scrollable list
 - **Use case**: A complete small app using Flet layout, events, and state management
 
